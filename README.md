@@ -1,4 +1,6 @@
-# 🍕 Fast React Pizza Co.
+# **🍕 Fast React Pizza Co.**
+
+![Pizza-Menu Web-App](./src/img/logo.png)
 
 Welcome to **Fast React Pizza Co.** a delightful React-based project that showcases an online pizza menu. This small but vibrant project demonstrates a clean and functional implementation of React components, ideal for exploring fundamental concepts of React development.
 
